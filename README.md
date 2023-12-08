@@ -10,15 +10,6 @@ This project is an extensive analysis of online articles related to Bitcoin, aim
 
 - **Data Analysis and Visualization**: The Jupyter Notebook `bitcoin_articles_analysis.ipynb` takes the scraped data to perform an in-depth analysis. It includes the use of libraries such as Pandas, NumPy, Matplotlib, Seaborn, and NLTK for data processing, statistical analysis, and visualization.
 
-## Getting Started
-
-To get started with this project:
-
-1. Clone the repository.
-2. Install the required Python libraries listed in `requirements.txt`.
-3. Run `scarping_data.py` to scrape data.
-4. Open `bitcoin_articles_analysis.ipynb` in Jupyter Notebook or Jupyter Lab to view and run the analysis.
-
 ## Libraries
 
 - Python 3.x
